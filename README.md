@@ -30,7 +30,8 @@ BlenderGIS is an add-on for Blender that enhances its capabilities for working w
 
 ## Usage Examples 📊
 
-![image](https://github.com/user-attachments/assets/0fea6e4a-6e0d-49cc-900c-e9d0cf9b053f)
+![image](https://github.com/user-attachments/assets/4317ebcd-9830-4242-a90e-290862ba91db)
+
 
 
 
